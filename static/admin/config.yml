@@ -4,7 +4,7 @@ backend:
   name: github
   repo: pulost/fengblog
   branch: main
-  base_url: https://fengblog-auth.REPLACE_ME.workers.dev
+  base_url: https://fengblog-auth.pulost.workers.dev
   auth_endpoint: /auth
 
 locale: zh_Hans
